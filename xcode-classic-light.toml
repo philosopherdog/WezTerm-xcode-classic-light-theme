@@ -1,0 +1,24 @@
+[colors]
+foreground = "#282828"
+background = "#F5F5F5"
+cursor_bg = "#282828"
+cursor_border = "#282828"
+cursor_fg = "#FFFFFF"
+selection_bg = "#B3D7FF"
+selection_fg = "#282828"
+
+# ANSI colors
+ansi = ["#000000", "#C41A16", "#007400", "#643820", "#272AD8", "#AA0D91", "#3F6E74", "#D9D7D5"]
+brights = ["#000000", "#C41A16", "#007400", "#643820", "#272AD8", "#AA0D91", "#3F6E74", "#ECECEC"]
+
+# Specific UI colors
+tab_bar_background = "#ECECEC"
+active_tab_background = "#F5F5F5"
+active_tab_foreground = "#282828"
+inactive_tab_background = "#F5F5F5"
+inactive_tab_foreground = "#242424"
+
+# Other UI elements
+scrollbar_thumb = "#D9D7D5"
+split = "#D9D7D5"
+visual_bell = "#FF0000"
