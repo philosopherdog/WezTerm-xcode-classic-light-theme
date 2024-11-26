@@ -5,3 +5,7 @@ config.color_scheme_dirs = { "~/.config/wezterm/colors" }
 config.color_scheme = "xcode-classic-light"
 ```
 to your WezTerm config file
+
+I converted the theme from this source:
+https://marketplace.visualstudio.com/items?itemName=MateoCERQUETELLA.xcode-12-theme
+
